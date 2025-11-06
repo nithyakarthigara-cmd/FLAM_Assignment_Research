@@ -1,0 +1,10 @@
+Fitted parameters (assignment bounds respected):
+Theta (deg): 28.118392
+M: 0.021389
+X: 54.898566
+L1 cost: 37865.093904
+
+Notes:
+- t generated uniformly in (6, 60)
+- L1 distance minimized using scipy.optimize.minimize (L-BFGS-B)
+- Outputs saved in 'outputs/' directory

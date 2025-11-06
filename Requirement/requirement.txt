@@ -1,0 +1,21 @@
+# ================================
+# FLAM Assignment – Required Python Libraries
+# Author: Nithyakarthiga R
+# ================================
+# Use these commands in Command Prompt (Windows):
+# Each line shows what to install individually if needed.
+
+# Install NumPy (for mathematical computations)
+pip install numpy
+
+# Install pandas (for data handling and CSV reading)
+pip install pandas
+
+# Install Matplotlib (for plotting graphs and residuals)
+pip install matplotlib
+
+# Install SciPy (for optimization and curve fitting)
+pip install scipy
+
+# Alternatively, to install everything at once, run:
+# pip install -r requirements.txt
